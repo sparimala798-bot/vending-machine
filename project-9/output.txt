@@ -1,0 +1,28 @@
+========== VENDING MACHINE ==========
+1 . Chips - Rs. 20 | Stock: 5
+2 . Chocolate - Rs. 30 | Stock: 4
+3 . Biscuits - Rs. 15 | Stock: 6
+4 . Juice - Rs. 25 | Stock: 3
+======================================
+Enter item number (0 to exit): 2
+Enter money: Rs. 50
+Dispensing Chocolate. Change: Rs.20
+
+========== VENDING MACHINE ==========
+1 . Chips - Rs. 20 | Stock: 5
+2 . Chocolate - Rs. 30 | Stock: 3
+3 . Biscuits - Rs. 15 | Stock: 6
+4 . Juice - Rs. 25 | Stock: 3
+======================================
+Enter item number (0 to exit): 1
+Enter money: Rs. 10
+Insufficient money
+
+========== VENDING MACHINE ==========
+1 . Chips - Rs. 20 | Stock: 5
+2 . Chocolate - Rs. 30 | Stock: 3
+3 . Biscuits - Rs. 15 | Stock: 6
+4 . Juice - Rs. 25 | Stock: 3
+======================================
+Enter item number (0 to exit): 0
+Thank you for using the vending machine!
